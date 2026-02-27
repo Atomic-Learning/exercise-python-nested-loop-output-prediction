@@ -1,0 +1,21 @@
+{
+    "title": "Exercise: Python Nested Loop Output Prediction",
+    "slug": "exercise-python-nested-loop-output-prediction",
+    "description": "Predicts and then checks output of a nested-loop program that aggregates inner-list values.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python",
+        "exercise"
+    ],
+    "duration": 5,
+    "prerequisites": [
+        "python-nested-for-loops",
+        "python-arithmetic-operators",
+        "python-variables"
+    ],
+    "related": [
+        "sample-solution-python-nested-loop-output-prediction"
+    ]
+}
