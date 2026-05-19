@@ -13,7 +13,8 @@
     "prerequisites": [
         "python-nested-for-loops",
         "python-arithmetic-operators",
-        "python-variables"
+        "python-variables",
+        "programming-accumulator-pattern"
     ],
     "related": [
         "sample-solution-python-nested-loop-output-prediction"
